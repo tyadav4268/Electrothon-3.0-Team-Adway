@@ -15,5 +15,5 @@
 ## Creating the CNN Model
 - Model 1: Using data as preprocessed by the tensorflow.keras.applications.mobilenet.preprocess_input but the model is created by us.
 - Model 2: Using the previous model but the data is in grayscale.
-- Model 3: Using the already existing very popular mobilenet model from the tensorflow.keras.applications.mobilenet, and tuning it a little bit as per our requirement.(still need to upload it)
-
+- Model 3: Using the already existing very popular mobilenet model from the tensorflow.keras.applications.mobilenet, and tuning it a little bit as per our requirement.
+  This is our final model.
