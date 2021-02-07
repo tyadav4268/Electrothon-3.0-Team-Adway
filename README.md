@@ -11,3 +11,9 @@
   - Vinay
   - Aakansha
 - Dataset is available in my google drive [Dataset Link](https://drive.google.com/drive/folders/1yzGNq1mmUdMcQTC1pcI48zcOqbm9j26i?usp=sharing)
+
+## Creating the CNN Model
+- Model 1: Using the data as it is a.
+- Model 2: Using the preprocessed data.
+- Model 3: Using the already existing very popular mobilenet model from the tensorflow.keras.applications.mobilenet, and tuning it a little bit as per our requirement.
+
