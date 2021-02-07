@@ -7,4 +7,7 @@
 
 ## DataSet Creation
 - After capturing more images and applying data augmentaion, the total dataset now contains more than 10,000 images
-- Dataset is available in my drive [Link](https://drive.google.com/drive/folders/1yzGNq1mmUdMcQTC1pcI48zcOqbm9j26i?usp=sharing)
+- Images are captured by
+  - Vinay
+  - Aakansha
+- Dataset is available in my google drive [Dataset Link](https://drive.google.com/drive/folders/1yzGNq1mmUdMcQTC1pcI48zcOqbm9j26i?usp=sharing)
